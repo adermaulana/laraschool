@@ -10,7 +10,7 @@
                 <!-- Hero Content -->
                 <div class="hero-content text-center">
                     <h2>Selamat Datang di Laraschool</h2>
-                    <a href="#" class="btn clever-btn">Sekolah Elit</a>
+                    <a href="/" class="btn clever-btn">Sekolah Elit</a>
                 </div>
             </div>
         </div>
